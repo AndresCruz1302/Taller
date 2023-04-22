@@ -1,0 +1,26 @@
+-classpath
+'C:/Users/acruz/.m2/repository/jakarta/platform/jakarta.jakartaee-api/9.1.0/jakarta.jakartaee-api-9.1.0.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+11
+-sourcepath
+'C:/Users/acruz/OneDrive/Escritorio/Prueba_3/Prueba_3/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/acruz/OneDrive/Escritorio/Prueba_3/Prueba_3/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Prueba_3-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/acruz/OneDrive/Escritorio/Prueba_3/Prueba_3/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Prueba_3-1.0-SNAPSHOT 1.0-SNAPSHOT API'

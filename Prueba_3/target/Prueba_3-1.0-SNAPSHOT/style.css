@@ -1,0 +1,92 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 21 abr 2023, 10:50:59
+    Author     : USUARIO
+*/
+body {
+    background-image: url(https://sollamascotas.com/sites/default/files/blog/gatos/perros-vs-gatos-3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    
+  }
+  h1 {
+    color: #252525;
+    text-align: center;
+    padding-top: 10px;
+  }
+  
+  div {
+    max-width: 500px;
+    margin: 10px auto;
+    background-color: #dddddd6b;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(78, 78, 78, 0.2);
+  }
+  form {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #b6b6b6a8;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(114, 113, 113, 0.2);
+  }
+  label {
+    display: block;
+    margin-bottom: 10px;
+    color: #161616;
+  }
+  
+  input[type="text"],
+  input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    text-decoration-color: white;
+    background-color: #ffffff5e;
+    color: black;
+  }
+ 
+  select {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    background-color: #ffffff5e;
+    color: rgb(37, 37, 37);
+  }
+  input[type="submit"] {
+    background-color: #3589ab;
+    color: white;
+    margin: 30px 10px 30px 0;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #34a975;
+  }
+  button[type="button"]{
+    background-color: #3589ab;
+    color: white;
+    margin: 30px 10px 30px 0;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+      
+  }
